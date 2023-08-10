@@ -65,7 +65,7 @@ for i in range(1, 10):
     button.grid(row=row, column=col)
 
 buttons = [
-    ("0", 0, 3),
+    ("0", 4, 1),
     (".", 4, 3),
     ("+", 1, 3),
     ("-", 2, 3),
