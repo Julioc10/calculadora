@@ -11,3 +11,4 @@
 
 E voilà ✨ Já vai estar pronta pra uso! 😃
 
+![Captura de tela de 2023-08-10 14-20-44](https://github.com/Julioc10/calculadora/assets/69183396/301d68ff-28dc-4db8-abea-1955de4272a3)
