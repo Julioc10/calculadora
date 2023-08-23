@@ -27,11 +27,12 @@ Por último, instale a biblioteca gráfica TKinter
 
 ## Como usar
 
-- Primeiro ative o pipenv
+- Ative o Docker e faça um build da imagem do Dockerfile
 
-  `pipenv shell`
+  `docker build -t calculadora:0.1 .`
 
-- Depois só usar `python3 calculadora.py` (para ativar a calculadora)
+- depois dar um run pra criar o container.
+  `docker run -u=$(id -u $USER):$(id -g $USER) -e DISPLAY=$DISPLAY -v /tmp/.X11-unix:/tmp/.X11-unix:rw --rm calculadora:0.1`
 
 E voilà ✨ Já vai estar pronta pra uso! 😃
 
