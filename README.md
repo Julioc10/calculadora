@@ -2,28 +2,7 @@
 
 É uma calculadora front-end em python, usando a biblioteca Tkinter. Bem simples de se fazer e divertido de usar 🤩
 
-## Preparando o ambiente
-
-Antes de iniciar o projeto devemos preparar nosso ambiente com as dependências:
- - Python3
- - Pip
- - pipenv
- - python3-tk
-
-Este projeto foi desenvolvido em um ambiente Ubuntu Linux. Se você também utilizar Alguma distribuição linux baseada em Debian, talvez os comandos abaixo sejam úteis.
-
-Para instalar o Pip:
-
-   `sudo apt install python3-pip -y`
-
- Com o Pip instalado, siga com a instalação do Pipenv com o seguinte comando:
-
-   `pip install pipenv`
-
-Por último, instale a biblioteca gráfica TKinter
-
-  `sudo apt-get install python3-tk -y`
-
+Este projeto foi desenvolvido em um ambiente Ubuntu Linux. Pode funcionar em distribuições linux baseada em Debian.
 
 ## Como usar
 
